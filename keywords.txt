@@ -1,0 +1,6 @@
+MyLed                	KEYWORD1
+setInterval          	KEYWORD2
+setBlink		KEYWORD2
+turnOn		KEYWORD2
+turnOff		KEYWORD2
+loop		KEYWORD2
